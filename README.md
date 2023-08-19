@@ -40,21 +40,29 @@ To run this application, you'll need:
 
 2. Navigate to the project directory:
 
-```` cd psychology-test-app
+``` 
+cd psychology-test-app
+
+```
 
 3. Install the required dependencies:
 
+```
 npm install
+```
 
 4. Configure the MongoDB connection in the .env file:
-
+```
 makefile
 
 MONGODB_URI=your_mongodb_uri_here
+```
 
-Start the application:
+5. Start the application:
 
+```
 npm start
+```
 
 ### Available Tests
 - **Consent Form**
