@@ -97,8 +97,8 @@ npm start
   - **PD Scale**
     - Description: The PD Scale is a screening instrument used to assess personality traits and symptoms related to various personality disorders.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
